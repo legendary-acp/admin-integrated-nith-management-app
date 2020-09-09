@@ -27,9 +27,11 @@ It is website(under construction) for updating data required for INMG. From here
   
 ## Build Instruction
 * Install required npm packages 
+
 ```npm install```
 
 * Start app using 
+
 ```npm start``` 
 
 ## License
